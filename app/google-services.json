@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "209946327890",
+    "project_id": "class-wedding",
+    "storage_bucket": "class-wedding.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209946327890:android:2d3eeddcaf27b9e9c3988b",
+        "android_client_info": {
+          "package_name": "com.guy.class22b_and_8"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209946327890-3ounmjh2famnq42pjc0qqb21r5tfoidi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQVdCBDrhHA-HPLWFt2LVuvU5yjjC2ynk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209946327890-3ounmjh2famnq42pjc0qqb21r5tfoidi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
